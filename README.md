@@ -27,7 +27,11 @@ Healthy = 2
 
 #### Result
 Using VBA, I lopped through all of the rows to:
+
   -read the gender, age, and health status data
+  
   -use that data to calcuate the projected claim amount for each year of the policy
+  
   -populate the projection amounts for each year of the policy
+  
 I also caluated the total projected claim amount to be paid each year for all 100 policy holders and the total projected claim amount to be paid over the life of the policy for each policy holder.
